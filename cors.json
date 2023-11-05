@@ -1,0 +1,10 @@
+[
+  {
+    "origin": [
+      "https://sfc-ar-tatekan.web.app",
+      "https://sfc-ar-tatekan.firebaseapp.com"
+    ],
+    "method": ["GET"],
+    "maxAgeSeconds": 3600
+  }
+]
